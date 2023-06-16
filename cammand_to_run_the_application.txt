@@ -1,0 +1,3 @@
+
+# to runt the application you need to run below command in you project terminal
+streamlit run app.py
